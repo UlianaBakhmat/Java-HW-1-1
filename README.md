@@ -37,6 +37,7 @@
 * Git Bash
 * Github
 * Visual Studio Code
+
 В качестве тестовых данных использовались данные из GitHub:  
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8
 
